@@ -1,4 +1,4 @@
-package pz2.service;
+package org.example.pz2.service;
 
 import org.example.pz2.model.Transaction;
 import org.example.pz2.service.TransactionAnalyzer;
